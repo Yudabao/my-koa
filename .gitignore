@@ -1,9 +1,14 @@
 # build
 /build
+koa/node_modules
+vue/build
 # node_module
 /node_modules
+koa/node_modules
+vue/node_modules
 dist
 npm-debug.log
 .idea
 package-lock.json
-stats.json
+# history
+.history
